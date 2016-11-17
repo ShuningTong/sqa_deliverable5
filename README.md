@@ -11,6 +11,7 @@ Steps taken to exploit the vulnerability:
 * You will login successfully.
 
 Screenshots:
+
 ![](/pics/vul1_site.png)
 ![](/pics/vul1_zap.png)
 
@@ -40,6 +41,7 @@ daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
 ```
 
 Screenshots:
+
 ![](/pics/vul2_site.png)
 ![](/pics/vul2_zap.png)
 
@@ -61,6 +63,7 @@ Steps taken to exploit the vulnerability:
 * You will see a javascript alert window saying "1".
 
 Screenshots:
+
 ![](/pics/vul3_site.png)
 ![](/pics/vul3_zap.png)
 
