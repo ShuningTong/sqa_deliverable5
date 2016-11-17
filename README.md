@@ -1,5 +1,5 @@
 # sqa_deliverable5
-I found three vulnerabilities for this homework assignment.
+I found three vulnerabilities for this homework assignment using OWASP ZAP.
 ## 1. Code Injection Vulnerability
 [The URL of the website with the described vulnerability](http://demo.testfire.net/bank/login.aspx)
 
